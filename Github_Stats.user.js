@@ -1,6 +1,13 @@
 // ==UserScript==
-// @name	Github Stats
-// @namespace	stratehm.github
+// @name	Github DL Stats
+// @namespace	Efreak.github
+// @author	Stratehm
+// @contributor	Efreak
+// @description	display the download count of the last release for public repositories
+// @homepage	https://github.com/Efreak/GM-github-release-download-count
+// @icon64	https://github.com/favicon.ico
+// @downloadURL https://github.com/Efreak/GM-github-release-download-count/raw/master/Github_Stats.user.js
+// @supportURL	https://github.com/Efreak/GM-github-release-download-count/issues
 // @include	https://github.com/*/*
 // @version	2
 // @grant	GM_xmlhttpRequest
