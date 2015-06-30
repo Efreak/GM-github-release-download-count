@@ -14,7 +14,7 @@
 // @grant	GM_getValue
 // @grant	GM_setValue
 // @require	http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
-// @require	http://userscripts-mirror.org/scripts/source/107941.user.js
+// @require	https://https://raw.githubusercontent.com/Efreak/GM-github-release-download-count/master/GM_SuperValue.user.js
 // ==/UserScript==
 
 var lastReleaseItemList;
